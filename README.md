@@ -35,8 +35,9 @@ This project leverages SQLite to perform extensive EDA on an NBA dataset, with a
 This project features an interactive Excel Dashboard displaying a coffee shop's sales by market, product type, and sales over time.
 
 **Key Tasks:**
-- Created an interactive Excel Dashboard to display coffee shop sales data.
-- Visualized sales by market, product type, and over time to provide clear and actionable insights.
+- Processed and cleaned the raw data, leveraging pivot tables to generate various visual representations.
+- Engineered an interactive Excel Dashboard, integrating the visualizations to showcase sales data for the coffee shop.
+- Illustrated sales trends across markets, product types, and time periods, delivering practical insights.
 
 ## Getting Started
 
