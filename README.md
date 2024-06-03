@@ -9,7 +9,7 @@ Welcome to my portfolio repository! Here, you will find a collection of my data 
 This project involves utilizing Python in analyzing NBA team data from the 2022-2024 seasons with a focus on the basketball “Four Factors”.
 
 **Key Tasks:**
-- Analyzed team statistics using several libraries including Numpy, Pandas, Sklearn, Statsmodels, Matplotlib, and Seaborn, focusing on the "Four Factors".
+- Analyzed team statistics using several libraries including NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, and Seaborn, focusing on the "Four Factors".
 - Cleaned and preprocessed the data, then conducted exploratory data analysis (EDA) to obtain preliminary insights before testing.
 - Developed linear and logistic regression models to analyze the impact of the "Four Factors" on winning and to predict playoff qualification accuracy.
 
