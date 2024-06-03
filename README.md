@@ -39,6 +39,13 @@ This project features an interactive Excel Dashboard displaying a coffee shop's 
 - Engineered an interactive Excel Dashboard, integrating the visualizations to showcase sales data for the coffee shop.
 - Illustrated sales trends across markets, product types, and time periods, delivering practical insights.
 
+## Data Sources
+
+- **FourFactorsPortfolio:** NBA team data from the 2022-2024 seasons was sourced from [Kaggle]([https://www.basketball-reference.com/](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Team+Summaries.csv)).
+- **MoviePortfolio:** The movie dataset was obtained from [Kaggle]([https://www.imdb.com/interfaces/](https://www.kaggle.com/datasets/danielgrijalvas/movies)) or another similar source.
+- **NBAStatsPortfolio:** NBA player data was sourced from [Kaggle]([https://www.basketball-reference.com/](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Player+Shooting.csv)) 
+- **CoffeeSalesPortfolio:** Coffee shop sales data was a simulated dataset from [Kaggle](https://www.kaggle.com/).
+
 ## Getting Started
 
 To explore each project, navigate to the respective project directory. Detailed instructions, code, and analysis can be found within each folder.
