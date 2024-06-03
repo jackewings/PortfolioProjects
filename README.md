@@ -27,7 +27,7 @@ This project investigates a movie dataset in Python to identify features with th
 This project leverages SQLite to perform extensive EDA on an NBA dataset, with a specific focus on the Minnesota Timberwolves, to discover team/league leaders and particular stats.
 
 **Key Tasks:**
-- Utilized queries, joins, window functions, and more to perform extensive EDA on an NBA dataset.
+- Utilized queries, joins, window functions, CTEs, temporary tables, and more to perform extensive EDA on an NBA dataset.
 - Focused on discovering team/league leaders and particular statistics with an emphasis on the Timberwolves.
 
 ### 4. CoffeeSalesPortfolio
