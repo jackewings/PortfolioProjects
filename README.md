@@ -41,10 +41,7 @@ This project features an interactive Excel Dashboard displaying a coffee shop's 
 
 ## Data Sources
 
-- **FourFactorsPortfolio:** NBA team data from the 2022-2024 seasons was sourced from [Kaggle]([https://www.basketball-reference.com/](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Team+Summaries.csv)).
-- **MoviePortfolio:** The movie dataset was obtained from [Kaggle]([https://www.imdb.com/interfaces/](https://www.kaggle.com/datasets/danielgrijalvas/movies)) or another similar source.
-- **NBAStatsPortfolio:** NBA player data was sourced from [Kaggle]([https://www.basketball-reference.com/](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Player+Shooting.csv)) 
-- **CoffeeSalesPortfolio:** Coffee shop sales data was a simulated dataset from [Kaggle](https://www.kaggle.com/).
+- All data was sourced from [Kaggle](https://www.kaggle.com/)
 
 ## Getting Started
 
