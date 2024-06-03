@@ -22,7 +22,7 @@ This project investigates a movie dataset in Python to identify features with th
 - Transformed and cleaned the dataset to prepare for analysis through EDA.
 - Developed a comprehensive correlation matrix for all variables and identified key features by filtering for strong positive correlation values (> 0.5).
 
-### 3. Data Exploration in SQL (NBA Shooting Portfolio Project)
+### 3. Data Exploration in SQL (NBAStatsPortfolio)
 **Description:**  
 This project leverages SQLite to perform extensive EDA on an NBA dataset, with a specific focus on the Minnesota Timberwolves, to discover team/league leaders in particular statistics.
 
