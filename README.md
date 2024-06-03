@@ -4,7 +4,7 @@ Welcome to my portfolio repository! Here, you will find a collection of my data 
 
 ## Projects
 
-### 1. FourFactorsPortfolio
+### 1. Regression Modeling in Python (FourFactorsPortfolio)
 **Description:**  
 This project involves utilizing Python in analyzing NBA team data from the 2022-2024 seasons with a focus on the basketball “Four Factors”.
 
@@ -13,7 +13,7 @@ This project involves utilizing Python in analyzing NBA team data from the 2022-
 - Cleaned and preprocessed the data, then conducted exploratory data analysis (EDA) to obtain preliminary insights before testing.
 - Developed linear and logistic regression models to analyze the impact of the "Four Factors" on winning and to predict playoff qualification accuracy.
 
-### 2. MoviePortfolio
+### 2. Correlation Analysis in Python (MoviePortfolio)
 **Description:**  
 This project investigates a movie dataset in Python to identify features with the highest correlation to gross earnings.
 
@@ -22,7 +22,7 @@ This project investigates a movie dataset in Python to identify features with th
 - Transformed and cleaned the dataset to prepare for analysis through EDA.
 - Developed a comprehensive correlation matrix for all variables and identified key features by filtering for strong positive correlation values (> 0.5).
 
-### 3. NBAShootingPortfolio
+### 3. Data Exploration in SQL (NBA Shooting Portfolio Project)
 **Description:**  
 This project leverages SQLite to perform extensive EDA on an NBA dataset, with a specific focus on the Minnesota Timberwolves, to discover team/league leaders in particular statistics.
 
@@ -30,7 +30,7 @@ This project leverages SQLite to perform extensive EDA on an NBA dataset, with a
 - Utilized queries, joins, window functions, CTEs, temporary tables, and more to perform extensive EDA on an NBA dataset.
 - Focused on discovering which players from the Timberwolves, and around the league, exceled or underperformed in different stat categories.
 
-### 4. CoffeeSalesPortfolio
+### 4. Coffee Shop Sales Dashboard (CoffeeSalesPortfolio)
 **Description:**  
 This project features an interactive Excel Dashboard displaying a coffee shop's sales by market, product type, and sales over time.
 
