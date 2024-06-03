@@ -28,7 +28,7 @@ This project leverages SQLite to perform extensive EDA on an NBA dataset, with a
 
 **Key Tasks:**
 - Utilized queries, joins, window functions, CTEs, temporary tables, and more to perform extensive EDA on an NBA dataset.
-- Discovered which players from the Timberwolves, and around the league, exceled or underperformed in different stat categories.
+- Analyzed statistics across different categories for players from the Timberwolves and other teams in the league to identify top performers and underperformers.
 
 ### 4. Coffee Shop Sales Dashboard (CoffeeSalesPortfolio)
 **Description:**  
