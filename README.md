@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-Welcome to my portfolio repository! Here, you will find a collection of my data analysis projects, showcasing my skills in Python, SQL, and Excel. Each project highlights a different aspect of my expertise, from data cleaning and exploratory data analysis (EDA) to building predictive models and creating interactive dashboards.
+Welcome to my portfolio repository! Here, you will find a collection of my data analysis projects, showcasing my skills in Python, SQL, and Excel. Each project highlights a different aspect of my expertise, from data cleaning and exploratory data analysis to building predictive models and creating interactive dashboards.
 
 ## Projects
 
