@@ -49,7 +49,7 @@ To explore each project, navigate to the respective project directory. Detailed 
 
 ## Contact
 
-If you have any questions or would like to connect, please feel free to reach out via LinkedIn: [Jack Ewings' LinkedIn](https://www.linkedin.com/in/jack-ewings-profile/).
+If you have any questions or would like to connect, please feel free to reach out via LinkedIn: [Jack Ewings LinkedIn](https://www.linkedin.com/in/jack-ewings-profile/).
 
 Thank you for visiting my portfolio!
 
