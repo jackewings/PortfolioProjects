@@ -6,7 +6,7 @@ Welcome to my portfolio repository! Here, you will find a collection of my data 
 
 ### 1. Regression Modeling in Python (FourFactorsPortfolio)
 **Description:**  
-This project involves utilizing Python in analyzing NBA team data from the 2022-2024 seasons with a focus on the basketball “Four Factors”.
+This project involves utilizing Python in analyzing NBA team data from the 2014-2024 seasons with a focus on the basketball “Four Factors”.
 
 **Key Tasks:**
 - Analyzed team statistics using several libraries including NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, and Seaborn, focusing on the "Four Factors".
